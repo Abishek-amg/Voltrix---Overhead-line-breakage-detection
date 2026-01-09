@@ -7,8 +7,6 @@ Developing a cost-effective solution for detecting the breakage of Low Voltage A
 
 - **Theme:** Social, Environmental  
 - **Category:** Hardware  
-- **Team Name:** Volt Warriors  
-- **College:** J.J. College of Engineering and Technology, Tiruchirappalli
 
 ## Overview
 VOLTRIX is a distributed monitoring system that:
